@@ -7,10 +7,10 @@
 - How to reach me: I opened for communication. Find me anywhere: <a href="https://t.me/syth0le"><img align="center" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /></a>
 <a href="https://www.linkedin.com/in/daniil-cherednichenko-4294141b0/"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" /></a>
 
-| | |
-|:-------------------------:|:-------------------------:|
-|<img align="left" alt="My Github Stats"  width="300" height="200" src="https://github-readme-stats.vercel.app/apiusername=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" /> |
-<img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&layout=compact" />|
+| Header A       | Header B       |
+| -------------- | -------------- |
+| <img align="left" alt="My Github Stats"src="https://github-readme-stats.vercel.app/apiusername=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />    | <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&layout=compact" />   |
+| row 2 column 1 | row 2 column 2 |
 
 <i>With respect and love,<br>Cherednichenko Daniel</i>
 

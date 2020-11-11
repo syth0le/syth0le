@@ -18,7 +18,7 @@
   </style>
  </head> 
 <div class="gallery" style="">
-    <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=syth0le&show_icons=true&hide_border=true&show_owner=true&theme=buefy&hide=contribs,prs" />
+    <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=syth0le&show_icons=true&theme=radical&count_private=true&hide=issues,prs" />
     <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&layout=compact" />
 </div>
 

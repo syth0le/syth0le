@@ -7,8 +7,9 @@
 - How to reach me: I opened for communication. Find me anywhere: <a href="https://t.me/syth0le"><img align="center" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /></a>
 <a href="https://www.linkedin.com/in/daniil-cherednichenko-4294141b0/"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" /></a>
 
-
-<div class="gallery" style="display: grid;grid-template-columns: repeat(8, 1fr);grid-template-rows: repeat(8, 5vw);grid-gap: 15px;"><img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" /><img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&layout=compact" /></div>
+| | |
+|:-------------------------:|:-------------------------:|
+|<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" /><img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&layout=compact" />|
 
 <i>With respect and love,<br>Cherednichenko Daniel</i>
 

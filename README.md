@@ -9,7 +9,7 @@
 
 | Header A       | Header B       |
 | -------------- | -------------- |
-| <img align="left" alt="My Github Stats"src="https://github-readme-stats.vercel.app/apiusername=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />    | <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&layout=compact" />   |
+| <img align="left" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />    | <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&layout=compact" />   |
 | row 2 column 1 | row 2 column 2 |
 
 <i>With respect and love,<br>Cherednichenko Daniel</i>

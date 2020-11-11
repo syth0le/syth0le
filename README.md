@@ -9,7 +9,7 @@
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/apiusername=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" /> blah |
+|<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/apiusername=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" /> |
 <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&layout=compact" />|
 
 <i>With respect and love,<br>Cherednichenko Daniel</i>

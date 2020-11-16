@@ -16,12 +16,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&langs_count=8&layout=compact&theme=tokyonight" />
 </a>
 
+<!--
 <a href="https://github.com/syth0le/practice-coding-of-a-VSU-student">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syth0le&repo=practice-coding-of-a-VSU-student&theme=tokyonight" />
 </a>    
 <a href="https://github.com/syth0le/Flutter_PayPal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syth0le&repo=Flutter_PayPal&theme=tokyonight" />
 </a>
+-->
 
 <i>With respect and love,<br>Cherednichenko Daniel</i>
 

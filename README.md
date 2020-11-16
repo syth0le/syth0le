@@ -7,12 +7,12 @@
 - How to reach me: I opened for communication. Find me anywhere: <a href="https://t.me/syth0le"><img align="center" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /></a>
 <a href="https://www.linkedin.com/in/daniil-cherednichenko-4294141b0/"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" /></a>
 
+---
 
 <a href="https://github.com/syth0le">
   <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
 </a>
 <a href="https://github.com/syth0le">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&langs_count=8&layout=compact&theme=tokyonight" />
 </a>
 

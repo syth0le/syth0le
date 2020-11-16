@@ -13,7 +13,7 @@
 </a>
 <a href="https://github.com/syth0le">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&langs_count=8&layout=compact&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/syth0le/practice-coding-of-a-VSU-student">

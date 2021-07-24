@@ -2,7 +2,7 @@
 
 ## Python Backend Developer & VSU Student[RU]!
 
-- I'm currently interesting in Django/Flask development.
+- I'm currently interesting in FastAPI/Flask development.
 - Web-services, REST APIs, sites on Python's frameworks.
 - I'm also interested in ML, DS and mobile dev on Flutter framework.
 - Also I have open repositories, where you can find my practices <a href="https://github.com/syth0le?tab=repositories"><img align="center" alt="Repositories" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
@@ -15,7 +15,7 @@
   <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
 </a>
 <a href="https://github.com/syth0le">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&langs_count=8&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&langs_count=10&layout=compact&theme=tokyonight" />
 </a>
 
 ---

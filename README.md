@@ -3,7 +3,7 @@
 ## Python Backend Developer & VSU Student[RU]!
 
 - I'm currently interesting in FastAPI/Flask development.
-- Web-services, REST APIs, sites on Python's frameworks.
+- Web-services, REST APIs, telegram bots on Python's frameworks.
 - I'm currently learning Golang.
 - I'm also interested in ML, DS and mobile dev on Flutter framework.
 - Also I have open repositories, where you can find my practices <a href="https://github.com/syth0le?tab=repositories"><img align="center" alt="Repositories" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>

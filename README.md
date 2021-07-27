@@ -35,4 +35,9 @@
 <i>With respect and love,<br>Cherednichenko Daniel</i>
 
 Copyright © 2020 Cherednichenko Daniel. All rights reserved.
-![Visitor Count](https://profile-counter.glitch.me/syth0le/count.svg)
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+  </tr>
+</table>

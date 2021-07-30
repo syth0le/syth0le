@@ -40,4 +40,8 @@ Copyright © 2020 Cherednichenko Daniel. All rights reserved.
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/syth0le/count.svg" alt="" /></td>
   </tr>
+  <tr>
+    <td>My Spotify</td>
+    <td>[![spotify-github-profile](https://spoty-readme.herokuapp.com/)](https://spoty-readme.herokuapp.com/)</td>
+  </tr>
 </table>

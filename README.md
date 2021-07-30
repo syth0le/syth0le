@@ -45,5 +45,5 @@ Copyright © 2020 Cherednichenko Daniel. All rights reserved.
     <td><img src="http://185.20.226.71/spoty"/></td>
   </tr>
 </table>
-[![spotify-github-profile](http://185.20.226.71/spoty)](http://185.20.226.71/spoty)
-[![spotify-github-profile](https://profile-counter.glitch.me/syth0le/count.sv)](https://profile-counter.glitch.me/syth0le/count.sv)
+[![spotify-github-profile](http://185.20.226.71/spoty)](https://github.com/syth0le)
+[![spotify-github-profile](https://profile-counter.glitch.me/syth0le/count.sv)](https://github.com/syth0le)

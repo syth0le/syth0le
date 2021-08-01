@@ -42,6 +42,6 @@ Copyright © 2020 Cherednichenko Daniel. All rights reserved.
   </tr>
   <tr>
     <td>My Spotify</td>
-    <td><img src="https://camo.githubusercontent.com/c9f6ddb9215657cc194a5813204a726cf1654b65ebea7d177987004167d2042c/68747470733a2f2f73706f74792d726561646d652e6865726f6b756170702e636f6d2f"/></td>
+    <td><img src="https://spoty-readme.herokuapp.com/"/></td>
   </tr>
 </table>

@@ -16,7 +16,7 @@
   <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=syth0le&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
 </a>
 <a href="https://github.com/syth0le">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&langs_count=10&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syth0le&langs_count=10&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" />
 </a>
 
 ---

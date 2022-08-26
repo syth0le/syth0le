@@ -3,12 +3,11 @@
 ## Python & Go Backend Developer / VSU Student[RU]!
 
 - Have 2+ years experience of Python Backend Development.
-- I'm currently interested in Go.
 - Last time use Django/Django REST framework as main tool.
 - By the way, I'm also know FastAPI/Flask frameworks.
-- Web-services, REST APIs, telegram bots on Go & Python from scratch.
-- Knowledge: AWS S3, Docker, Redis, Celery, Nginx.
-- Always writing tests on my code :)
+- Expert knowledges in Unit testing
+- I'm currently interested in Go.
+- Knowledge: Docker, Redis, Celery, AWS S3, Nginx & etc.
 - I have open repositories, where you can find my practices <a href="https://github.com/syth0le?tab=repositories"><img align="center" alt="Repositories" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
 - How to reach me: I opened for communication. Find me anywhere: <a href="https://t.me/syth0le"><img align="center" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /></a>
   <a href="https://www.linkedin.com/in/syth0le"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" /></a>

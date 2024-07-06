@@ -1,8 +1,7 @@
 ### Hi there, I'm Cherednichenko Daniel - syth0le👋
 
 ## Software Engineer 
-## Yandex Core Infrastructure
-## Videoplatform Team
+### Yandex Core Infrastructure - Videoplatform Team
 
 - Develop highload services on Go.
 - Have 3+ years experience in Python Backend Development.
